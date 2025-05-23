@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#contenedor {
+	width: 1024px;
+	
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+#table {
+	width: 1024px;
+border: hsla(359,100%,89%,1.00);
+}
+
+#logo {
+    background: #FFC8C9;
+    height: 90px;
+    color: #FFC8C9;
+}
+
+#logo2 {
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#botones {
+	height: 30px;
+	background:#FFEEE0;
+	text-align: center;
+	text-align-last: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+#columna1 {
+	width: 1024px;
+	height: 475px;
+	float: none;
+	align-content: center; 
+}
+
+#ImagenG {
+	margin: auto;
+	align-content: center;
+	display: flex;
+
+}
+
+.meter {
+	clear:both;
+	display:flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#pie {
+background: #FFEEE0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 12px
+	
+}
